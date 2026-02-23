@@ -1,2 +1,4 @@
 Hello this is dharshini
 apples are red
+sky is blue
+tree is green
